@@ -9,4 +9,4 @@ Most of this was done by codecademy.  I just added the imports and exports and f
 
 
 ### Website:  
-Sample website: <a href='https://kentobias132.github.io/workAround-Explorer/' target='_blank'> Here </a>
+Sample website: (https://kentobias132.github.io/workAround-Explorer/)
